@@ -13,6 +13,7 @@ Welcome to the "Programação de Aplicações e Sítios Web Dinâmicos" exercise
 
 <h2>Overview</h2>
     This repository serves as a collection of exercises completed during the "Programação de Aplicações e Sítios Web Dinâmicos" class, which is part of the web programming course at CINEL (Centro de Formação Profissional da Indústria Eletrónica, Energia, Telecomunicações e Tecnologias da Informação).
+    The course was in Portuguese so the content of this repository will be aswell.
 
 <h2>About the Course</h2> 
     The "Programação de Aplicações e Sítios Web Dinâmicos" class provides students with a comprehensive understanding of dynamic web development. Throughout the course, students learn essential web programming concepts, modern technologies, and industry best practices for creating interactive and engaging web applications.
