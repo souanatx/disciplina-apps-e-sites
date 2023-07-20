@@ -7,7 +7,8 @@
     <div align="center">
         <img src="cinel_logo_horizontal.png" alt="CINEL Logo">
     </div>
-
+<br>
+<br>
 Welcome to the "Programação de Aplicações e Sítios Web Dinâmicos" exercises repository!
 
 <h2>Overview</h2>
