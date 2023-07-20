@@ -23,6 +23,10 @@ Welcome to the "Programação de Aplicações e Sítios Web Dinâmicos" exercise
     If you have any questions about the exercises, the course, or anything related to this repository, you can reach out to me through the contact information provided on my GitHub profile.
 
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">Happy coding and learning!</p>
 
