@@ -1,1 +1,2 @@
-# disciplina-apps-e-sites
+# "Programação de Aplicações e Sítios Web Dinâmicos" Class Exercises Repository
+
