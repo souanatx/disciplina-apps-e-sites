@@ -4,13 +4,14 @@
 <head>
 </head>
 <body>
-    <div style="text-align: center;">
-        <img src="cinel_logo_horizontal.png" alt="CINEL Logo" style="max-width: 300px;">
+    <div align="center">
+        <img src="cinel_logo_horizontal.png" alt="CINEL Logo">
     </div>
 
 Welcome to the "Programação de Aplicações e Sítios Web Dinâmicos" exercises repository!
 
-Overview This repository serves as a collection of exercises completed during the "Programação de Aplicações e Sítios Web Dinâmicos" class, which is part of the web programming course at CINEL (Centro de Formação Profissional da Indústria Eletrónica, Energia, Telecomunicações e Tecnologias da Informação).
+<h2>Overview </h2>
+    This repository serves as a collection of exercises completed during the "Programação de Aplicações e Sítios Web Dinâmicos" class, which is part of the web programming course at CINEL (Centro de Formação Profissional da Indústria Eletrónica, Energia, Telecomunicações e Tecnologias da Informação).
 
 About the Course The "Programação de Aplicações e Sítios Web Dinâmicos" class provides students with a comprehensive understanding of dynamic web development. Throughout the course, students learn essential web programming concepts, modern technologies, and industry best practices for creating interactive and engaging web applications.
 
