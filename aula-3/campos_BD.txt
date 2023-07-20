@@ -1,0 +1,8 @@
+id
+nome
+data_nascimento
+doc_identificacao
+BI
+Escolaridade
+Estabelecimento
+Experiencia
